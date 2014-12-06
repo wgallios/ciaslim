@@ -16,8 +16,11 @@ background_style        center
 background_color        #000000
 
 # Login Name
-username_font		Droid Sans:size=20
+username_font		DejaVu Sans:size=20
 username_color		#bc0000
+
+password_font		DejaVu Sans:size=20
+password_color		#bc0000
 
 password_x		50%
 password_y		38%
@@ -25,8 +28,8 @@ password_y		38%
 username_x		50%
 username_y		39%
 
-username_msg		Enter Username
-password_msg		Enter Password
+username_msg		Enter your username
+password_msg		Enter your password
 
 # Input controls
 input_panel_x           50%
