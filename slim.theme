@@ -13,29 +13,30 @@ msg_shadow_yoffset 1
 
 # valid values: stretch, tile
 background_style        center
-background_color        #30495E
+background_color        #000000
 
 # Login Name
-username_font		Droid Sans:size=13
-username_color		#ffffff
+username_font		Droid Sans:size=20
+username_color		#bc0000
 
 password_x		50%
-password_y		78%
+password_y		38%
 
 username_x		50%
-username_y		79%
+username_y		39%
 
-username_msg		Login
-password_msg		William Gallios
+username_msg		Enter Username
+password_msg		Enter Password
 
 # Input controls
 input_panel_x           50%
-input_panel_y           50%
+input_panel_y           27%
 
 input_name_x            50
-input_name_y            251
+input_name_y            80
+
 input_pass_x            50
-input_pass_y            251
+input_pass_y            80
 
 input_font              Verdana:size=15
 input_color		#98a0a7
