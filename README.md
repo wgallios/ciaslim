@@ -6,6 +6,8 @@ Slim Login CIA Theme
 ![CIA Slim login theme preview](https://raw.githubusercontent.com/wgallios/ciaslim/master/screenshot.png)
 
 ## Installation
+Make sure you have write permissions to /usr/share/slim/themes directory
+
 ```
 cd /usr/share/slim/themes && git clone https://github.com/wgallios/ciaslim.git
 ```
